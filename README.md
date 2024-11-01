@@ -2,7 +2,7 @@
 
 Reproducible Go program that demonstrates [`unipdf`](https://github.com/unidoc/unipdf) issues with SVG images.
 
-We tested with Go version `1.23.0` and UniPDF version `v3.62.0` (see the `go.mod` file).
+We tested with Go version `1.23.0` and UniPDF versions `v3.62.0` and `v3.63.0` (see the `go.mod` file).
 
 We can demonstrate three different outcomes when attempting to add an SVG image to an existing PDF document:
 

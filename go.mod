@@ -2,7 +2,7 @@ module unipdf-issue-insert-svg
 
 go 1.23.0
 
-require github.com/unidoc/unipdf/v3 v3.62.0
+require github.com/unidoc/unipdf/v3 v3.63.0
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
